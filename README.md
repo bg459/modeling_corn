@@ -1,6 +1,9 @@
 # Modeling Corn
 
+Brandon Guo, Parth Asawa, Richard Liu, Eric Zhang
+
 Code scripts and data resources used in the Project Report "An Analysis of Climate Change's Impact on Corn in Minnesota". 
+
 
 Project Report will be uploaded as a pdf once the paper is officially submitted. 
 
@@ -8,7 +11,9 @@ Project Report will be uploaded as a pdf once the paper is officially submitted.
 The following scripts can be found in the "Code" folder. Code was written by Eric Zhang and Brandon Guo.
 
 temp_sinusoid.py - Sinusoidal fit for temperature forecast
+
 randomwalk.py - Random Walk simulations for precipitation forecast
+
 lossAnalysisAnnual.py - Synthesis model for previous two forecasts
 
 # Data
