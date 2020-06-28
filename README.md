@@ -1,6 +1,6 @@
 # Modeling Corn
 
-Code scripts and data reesources used in the Project Report "An Analysis of Climate Change's Impact on Corn in Minnesota". 
+Code scripts and data resources used in the Project Report "An Analysis of Climate Change's Impact on Corn in Minnesota". 
 
 Project Report will be uploaded as a pdf once the paper is officially submitted. 
 
@@ -15,10 +15,14 @@ lossAnalysisAnnual.py - Synthesis model for previous two forecasts
 The following datasets can be found in the "Data" folder. Data was collected by Parth Asawa, Richard Liu, and Eric Zhang. Pre-processing performed by BG and EZ. 
 
 IndemnityByYear.csv - output loss for crops
+
 MinnesotaMonthlyPDSI.csv - PDSI monthly reads
+
 MinnesotaMonthlyTemperature.csv - monthly temp reads
+
 ProductionByCounty.csv - production values for Minnesotan counties
-UpdatedClimateDataByCounty.csv - yearly data for general metereological statisticss. 
+
+UpdatedClimateDataByCounty.csv - yearly data for general metereological statistics. 
 
 
 
