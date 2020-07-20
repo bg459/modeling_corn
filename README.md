@@ -1,6 +1,6 @@
 # Modeling Corn
 
-Brandon Guo, Parth Asawa, Richard Liu, Eric Zhang
+Parth Asawa, Brandon Guo, Richard Liu, Eric Zhang
 
 Code scripts, methods, and data resources used in the Project Report "An Analysis of Climate Change's Impact on Corn in Minnesota". 
 
